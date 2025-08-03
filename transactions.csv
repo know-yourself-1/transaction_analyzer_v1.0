@@ -1,0 +1,6 @@
+amount,category,type,date,description
+1000.0,Salary,income,2025-01-01,Monthly salary
+150.5,Groceries,expense,2025-01-02,Weekly shopping
+300.0,Utilities,expense,2025-01-05,Electricity bill
+200.0,Freelance,income,2025-01-10,Web development
+45.99,Entertainment,expense,2025-01-15,Cinema tickets
